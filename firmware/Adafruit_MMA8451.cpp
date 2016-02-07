@@ -22,7 +22,7 @@
 #else
 #endif
 
-#include <Wire.h>
+// #include <Wire.h>
 #include <Adafruit_MMA8451.h>
 
 /**************************************************************************/
