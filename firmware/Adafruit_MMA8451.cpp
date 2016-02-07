@@ -19,6 +19,7 @@
 
 #if ARDUINO >= 100
  #include "Arduino.h"
+ #include "stdint.h"
 #else
 #endif
 
