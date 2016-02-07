@@ -22,6 +22,7 @@
 #else
 #endif
 #include "stdint.h"
+#include "Wire.h"
 
 
 // #include <Wire.h>
