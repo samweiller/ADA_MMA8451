@@ -19,9 +19,10 @@
 
 #if ARDUINO >= 100
  #include "Arduino.h"
- #include "stdint.h"
 #else
 #endif
+#include "stdint.h"
+
 
 // #include <Wire.h>
 // #include <Adafruit_MMA8451.h>
